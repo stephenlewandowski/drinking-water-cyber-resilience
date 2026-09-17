@@ -16,9 +16,9 @@
 - Related source IDs: `SRC-0001`; `SRC-0002`; `SRC-0003`; `SRC-0004`; `SRC-0005`; `SRC-0007`; `SRC-0008`; `SRC-0009`
 - Related connection IDs: `CON-0007`; `CON-0009`; `CON-0010`; `CON-0011`; `CON-0012`; `CON-0013`; `CON-0014`
 - Related AI contribution IDs: `AI-0009`; `AI-0010`; `AI-0011`; `AI-0012`; `AI-0013`
-- Formal-review record: [2026-08-13 review](../../reports/IDEA-0001-consequence-path-formal-review-2026-08-13.md)
-- Release-review record: [2026-08-13 release review](../../reports/IDEA-0001-consequence-path-release-review-2026-08-13.md)
-- Release record: [PUB-0001 — v0.3 static release](../../published/projects/IDEA-0001-consequence-path-v0.3.md)
+- Formal-review record: [2026-08-13 review](reports/IDEA-0001-consequence-path-formal-review-2026-08-13.md)
+- Release-review record: [2026-08-13 release review](reports/IDEA-0001-consequence-path-release-review-2026-08-13.md)
+- Release record: [PUB-0001 — v0.3 static release](published/projects/IDEA-0001-consequence-path-v0.3.md)
 - Human decision: repository owner authorized the v0.3 static release on 2026-08-13. The 2026-08-17 evidence-lens enhancement is a draft for review; public web handoff, merge, deployment, and website promotion remain separate
 
 ## Editorial proposition
@@ -110,7 +110,7 @@ The filter is progressive enhancement only. With scripts unavailable, the comple
 
 ## Release state
 
-Version v0.3 is a human-authorized static release, recorded as `PUB-0001` and archived under [published/projects](../../published/projects/IDEA-0001-consequence-path-v0.3.md). The authoritative Current Events KM repository remains private; this release creates no public repository, live application, deployment, or website feature. The README, evidence table, Mermaid diagram, and CSV snapshots are the complete static fallback.
+Version v0.3 is a human-authorized static release, recorded as `PUB-0001` and archived under [published/projects](published/projects/IDEA-0001-consequence-path-v0.3.md). The authoritative Current Events KM repository remains private; this release creates no public repository, live application, deployment, or website feature. The README, evidence table, Mermaid diagram, and CSV snapshots are the complete static fallback.
 
 The source-currentness limitation for `SRC-0005` is disclosed rather than hidden: the official-domain retrieval reconfirmed the page and displayed claims on 2026-08-13, while automated direct retrieval returned HTTP 403. Future versions must recheck the official municipal page before updating the exhibit.
 

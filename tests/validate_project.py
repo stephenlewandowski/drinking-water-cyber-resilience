@@ -14,10 +14,10 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 PROJECT_README = ROOT / "README.md"
-RELEASE_REVIEW = ROOT.parents[1] / "reports" / "IDEA-0001-consequence-path-release-review-2026-08-13.md"
-RELEASE_RECORD = ROOT.parents[1] / "published" / "projects" / "IDEA-0001-consequence-path-v0.3.md"
-PUBLICATIONS = ROOT.parents[1] / "data" / "publications.csv"
-REPOSITORY_SOURCES = ROOT.parents[1] / "data" / "sources.csv"
+RELEASE_REVIEW = ROOT / "reports" / "IDEA-0001-consequence-path-release-review-2026-08-13.md"
+RELEASE_RECORD = ROOT / "published" / "projects" / "IDEA-0001-consequence-path-v0.3.md"
+PUBLICATIONS = ROOT / "data" / "publications.csv"
+REPOSITORY_SOURCES = ROOT / "data" / "sources.csv"
 
 STAGE_HEADERS = [
     "stage_id",
