@@ -1,0 +1,2 @@
+publication_id,idea_id,title,format,publication_date,venue,url,version,notes
+PUB-0001,IDEA-0001,Drinking-water cyber-resilience consequence path v0.3 static release,mixed_media_project,2026-08-13,Current Events KM authoritative repository,https://github.com/stephenlewandowski/current-events-km/,v0.3,"Static release archived in the authoritative repository; public GitHub release carries the README, evidence table, Mermaid diagram, and CSV snapshots as the complete static fallback."
